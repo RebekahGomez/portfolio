@@ -14,6 +14,14 @@ const Footer = () => {
         >
           LinkedIn
         </a>
+        {" | "}
+        <a
+          href="https://docs.google.com/document/d/18b6Nrr27qCe1PMEJwCNp6XHbZPtiT6pd9WYzAv5xXjk/edit?usp=sharing"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Resume
+        </a>
       </p>
     </footer>
   );
