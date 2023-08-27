@@ -2,12 +2,13 @@ import "./App.css";
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
+import AboutMe from "./components/AboutMe/AboutMe";
 
 function App() {
   return (
     <div>
       <Navbar />
-      <h1>Hello, world!</h1>
+      <AboutMe />
       <Footer />
     </div>
   );
