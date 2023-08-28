@@ -13,3 +13,15 @@ p {
   line-height: 1.5em;
   color: #333;
 }
+
+.read-more {
+  color: blue;
+  cursor: pointer;
+}
+
+/* Media query */
+@media screen and (max-width: 480px) {
+  .about-me {
+    font-size: 0.9em;
+  }
+}
