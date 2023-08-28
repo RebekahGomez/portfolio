@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Matching Game",
+    "description": "I had a lot of fun creating this nostalic game. Matching was my favorite game as a kid; I loved playing with my mom. This project came with a lot of fun challenges. But now that the bugs are worked out, I'm excited to scale this project in the future to add levels, more cards, and more fun!",
+    "image": "src/assets/images/matching_game.png",
+    "githubLink": "https://github.com/RebekahGomez/project-one-matching-game",
+    "deployedLink": "https://rebekahgomez.github.io/project-one-matching-game/"
+  },
+  {
+    "id": 2,
+    "title": "E-Commerce",
+    "description": "I really enjoyed working with a team on this project. I started off working on the backend, which I really enjoy, then hopped on to frontend functionality with the rest of the team. Please check out the GitHub for information on the collaborators.",
+    "image": "src/assets/images/ecommerce.png",
+    "githubLink": "https://github.com/nnmcgovern/alpha-marketplace-frontend",
+    "deployedLink": "https://alpha-marketplace.netlify.app"
+  },
+  {
+    "id": 3,
+    "title": "Art Gallery",
+    "description": "I found this backend API project to be intensely satisfying. I really enjoy working with databases and creating the backend functionality. Honestly, I enjoyed that there was no styling with this project - it was just code, and it was beautiful.",
+    "image": "src/assets/images/api1.png",
+    "githubLink": "https://github.com/RebekahGomez/project2-api",
+    "deployedLink": "https://project2-api.vercel.app"
+  }
+]
