@@ -63,7 +63,7 @@ a {
 
 @media (max-width: 480px) {
   .project-modal-content {
-    width: 100%;  
+    width: 90%;  
     max-height: 90vh; 
   }
 }
