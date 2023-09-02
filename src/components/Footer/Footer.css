@@ -2,7 +2,7 @@
   background-color: #333;
   color: #fff;
   text-align: center;
-  position: relative;
+  position: fixed;
   padding: .5em;
   bottom: 0;
   width: 100%;
@@ -24,6 +24,7 @@
 @media (max-width: 480px) {
   .footer {
     font-size: 0.8rem;  
+    position: relative;
   }
   .footer a {
     margin: 2px 0;  
