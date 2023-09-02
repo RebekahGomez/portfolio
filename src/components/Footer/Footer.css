@@ -1,15 +1,15 @@
 .footer {
   background-color: #333;
   color: #fff;
-  padding: 1em;
   text-align: center;
-  position: fixed;
+  position: relative;
+  padding: .5em;
   bottom: 0;
   width: 100%;
 }
 
 .footer a {
-  color: #9acd32;  
+  color: #3278cd;  
   text-decoration: none;  
 }
 
