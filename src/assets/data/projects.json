@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "Art Gallery Database",
-    "description": "I found this backend API project to be intensely satisfying. I really enjoy working with databases and creating the backend functionality. Honestly, I enjoyed that there was no styling with this project - it was just code, and it was beautiful.",
+    "description": "I found this backend API project to be intensely satisfying. I really enjoy working with databases and creating the backend functionality. Honestly, I enjoyed that there was no styling with this project - it was just code, and it was beautiful. *Note to non-developers: make sure your browser has a 'json prettier' extension, or this will all look like nonsense.",
     "image": "images/api1.png",
     "githubLink": "https://github.com/RebekahGomez/project2-api",
     "deployedLink": "https://project2-api.vercel.app"
