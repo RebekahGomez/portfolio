@@ -22,5 +22,13 @@
     "image": "images/api1.png",
     "githubLink": "https://github.com/RebekahGomez/project2-api",
     "deployedLink": "https://project2-api.vercel.app"
+  },
+  {
+    "id": 4,
+    "title": "Meme Generator Social Media App",
+    "description": "This was a really fun group project! We worked as a team to come up with this meme generator using React and Django. It was also my first experience with Material Tailwind which made the styling much easier.",
+    "image": "images/doge_icon.png",
+    "githubLink": "https://github.com/alantothe/you_and_meme_client",
+    "deployedLink": "https://youandmeme.netlify.app"
   }
 ]
