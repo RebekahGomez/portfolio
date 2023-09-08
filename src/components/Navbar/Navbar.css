@@ -28,6 +28,16 @@
   height: 50px;
 }
 
+.navbar-links img:hover {
+  transform: rotate(360deg);
+  transition: transform 0.5s ease-in-out;
+}
+
+/* .navbar-links img:hover {
+  transform: scale(1.2);
+  transition: transform 0.3s ease-in-out;
+} */
+
 @media (max-width: 480px) {
 
   .navbar-brand h1, p {
