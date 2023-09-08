@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Interactive Matching Game",
-    "description": "I had a lot of fun creating this nostalic game. Matching was my favorite game as a kid; I loved playing with my mom. This project came with a lot of fun challenges. But now that the bugs are worked out, I'm excited to scale this project in the future to add levels, more cards, and more fun!",
+    "description": "I had a lot of fun creating this nostalgic game. Matching was my favorite game as a kid; I loved playing with my mom. This project came with a lot of fun challenges. But now that the bugs are worked out, I'm excited to scale this project in the future to add levels, more cards, and more fun!",
     "image": "images/matching_game.png",
     "githubLink": "https://github.com/RebekahGomez/project-one-matching-game",
     "deployedLink": "https://rebekahgomez.github.io/project-one-matching-game/"
