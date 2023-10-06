@@ -36,6 +36,7 @@
     "title": "What's Going On In Wakefield",
     "description": "My first foray into Tableau, and I love it so much. I loved finding this outlier in the dataset and investigating further. This was the perfect blend of data representation & investigative journalism.",
     "image": "images/Tableau_Wakefield.png",
+    "githubLink": "https://github.com/RebekahGomez/tableau_wakefield",
     "deployedLink": "https://public.tableau.com/views/NoiseComplaintsNYC2017-2022/WakefieldDashboard?:language=en-US&:display_count=n&:origin=viz_share_link"
   }
 ]
