@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Interactive Matching Game",
-    "description": "I had a lot of fun creating this nostalgic game. Matching was my favorite game as a kid; I loved playing with my mom. This project came with a lot of fun challenges. But now that the bugs are worked out, I'm excited to scale this project in the future to add levels, more cards, and more fun!",
-    "image": "images/matching_game.png",
-    "githubLink": "https://github.com/RebekahGomez/project-one-matching-game",
-    "deployedLink": "https://rebekahgomez.github.io/project-one-matching-game/"
+    "title": "Meme Social Media App",
+    "description": "This was a really fun group project! We worked as a team to come up with this meme generator using React and Django. On the surface, this app looks simple, but there were a lot of complexities that went into it, such as user authentication, the ability to post comments, and prevent users from liking a post more than once.  The challenges were exciting to overcome, and I'm proud of the outcome.",
+    "image": "images/doge_icon.png",
+    "githubLink": "https://github.com/alantothe/you_and_meme_client",
+    "deployedLink": "https://youandmeme.netlify.app"
   },
   {
     "id": 2,
@@ -17,6 +17,14 @@
   },
   {
     "id": 3,
+    "title": "Interactive Matching Game",
+    "description": "I had a lot of fun creating this nostalgic game. Matching was my favorite game as a kid; I loved playing with my mom. This project came with a lot of fun challenges. But now that the bugs are worked out, I'm excited to scale this project in the future to add levels, more cards, and more fun!",
+    "image": "images/matching_game.png",
+    "githubLink": "https://github.com/RebekahGomez/project-one-matching-game",
+    "deployedLink": "https://rebekahgomez.github.io/project-one-matching-game/"
+  },
+  {
+    "id": 4,
     "title": "Art Gallery Database",
     "description": "I found this backend API project to be intensely satisfying. I really enjoy working with databases and creating the backend functionality. Honestly, I enjoyed that there was no styling with this project - it was just code, and it was beautiful. *Note to non-developers: make sure your browser has a 'json prettier' extension, or this will all look like nonsense.",
     "image": "images/api1.png",
@@ -24,11 +32,10 @@
     "deployedLink": "https://project2-api.vercel.app"
   },
   {
-    "id": 4,
-    "title": "Meme Social Media App",
-    "description": "This was a really fun group project! We worked as a team to come up with this meme generator using React and Django. On the surface, this app looks simple, but there were a lot of complexities that went into it, such as user authentication, the ability to post comments, and prevent users from liking a post more than once.  The challenges were exciting to overcome, and I'm proud of the outcome.",
-    "image": "images/doge_icon.png",
-    "githubLink": "https://github.com/alantothe/you_and_meme_client",
-    "deployedLink": "https://youandmeme.netlify.app"
+    "id": 5,
+    "title": "What's Going On In Wakefield",
+    "description": "My first foray into Tableau, and I love it so much. I loved finding this outlier in the dataset and investigating further. This was the perfect blend of data representation & investigative journalism.",
+    "image": "images/Tableau_Wakefield.png",
+    "deployedLink": "https://public.tableau.com/views/NoiseComplaintsNYC2017-2022/WakefieldDashboard?:language=en-US&:display_count=n&:origin=viz_share_link"
   }
 ]
