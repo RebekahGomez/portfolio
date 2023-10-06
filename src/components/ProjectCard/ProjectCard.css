@@ -19,6 +19,10 @@
   object-fit: contain;
 }
 
+button:hover {
+  background-color: darkblue; 
+}
+
 button {
   background-color: #3278cd;
   color: white;
