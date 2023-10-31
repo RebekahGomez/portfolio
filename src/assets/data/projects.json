@@ -38,5 +38,13 @@
     "image": "images/Tableau_Wakefield.png",
     "githubLink": "https://github.com/RebekahGomez/tableau_wakefield",
     "deployedLink": "https://public.tableau.com/views/NoiseComplaintsNYC2017-2022/WakefieldDashboard?:language=en-US&:display_count=n&:origin=viz_share_link"
+  },
+  {
+    "id": 6,
+    "title": "What We Do In The Shadows",
+    "description": "Happy Halloween! From a very large dataset of all the horror movies listed on IMDb 2012-2017, I narrowed in on this outlier. A success across all metrics!",
+    "image": "images/tableau_shadows.png",
+    "githubLink": "https://github.com/RebekahGomez/tableau_shadows",
+    "deployedLink": "https://public.tableau.com/views/HorrorMovies_16981130645650/DashboardShadows?:language=en-US&:display_count=n&:origin=viz_share_link"
   }
-]
+  ]
