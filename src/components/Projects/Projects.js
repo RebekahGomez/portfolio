@@ -23,11 +23,12 @@ const Projects = () => {
     setSelectedProject(null);
   };
 
+  const sortedProjects = [...projectsData].sort((a, b) => b.id - a.id);
+
   return (
     <div className="projects">
-      {/* <h2>My Projects</h2> */}
       <div className="projects-container">
-        {projectsData.map((project) => (
+        {sortedProjects.map((project) => (
           <ProjectCard
             key={project.id}
             project={project}
