@@ -64,6 +64,29 @@ a {
   background-color: rgb(193, 9, 9);
 }
 
+.modal-nav-button {
+  cursor: pointer;
+  z-index: 1010;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  background-color: #cc6e00;
+  font-size: 36px;
+}
+
+.modal-nav-button:hover {
+  background-color: #ff9a33;
+}
+
+.modal-nav-button.previous {
+  margin-right: 20px; 
+}
+
+.modal-nav-button.next {
+  margin-left: 20px; 
+}
+
 @media (max-width: 480px) {
   .project-modal-content {
     width: 90%;  
