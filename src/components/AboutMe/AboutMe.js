@@ -12,7 +12,7 @@ const AboutMe = () => {
   }, []);
 
   const truncatedText =
-    "Hi, I'm Rebekah Gomez! I'm a passionate developer, avid reader, foodie...";
+    "Hi, I'm Rebekah Gomez! I'm a passionate developer, avid reader, and New York...";
 
   const fullText = `Welcome! I'm a passionate developer, avid reader, and New York transplant. With a background in JavaScript, React, and
   other web technologies, I'm motivated to take on new challenges and
