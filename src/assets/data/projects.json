@@ -46,5 +46,13 @@
     "image": "images/tableau_shadows.png",
     "githubLink": "https://github.com/RebekahGomez/tableau_shadows",
     "deployedLink": "https://public.tableau.com/views/HorrorMovies_16981130645650/DashboardShadows?:language=en-US&:display_count=n&:origin=viz_share_link"
+  },
+  {
+    "id": 7,
+    "title": "New York Dogs",
+    "description": "My passion project! I moved to NY in June '23, and I've been taking photos of all the dogs I see around town.  This React site is a work in progress; I plan to build out lots of functionality over the coming months, but I'm very pleased with how it looks so far.",
+    "image": "images/NYDogs.png",
+    "githubLink": "https://github.com/RebekahGomez/newyorkdogs",
+    "deployedLink": "https://newyorkdogs.netlify.app"
   }
   ]
