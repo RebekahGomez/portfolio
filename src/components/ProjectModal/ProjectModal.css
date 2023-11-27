@@ -82,11 +82,11 @@ a {
 }
 
 .modal-nav-button.previous {
-  margin-right: -40px; 
+  margin-right: -60px; 
 }
 
 .modal-nav-button.next {
-  margin-left: -40px; 
+  margin-left: -60px; 
 }
 
 @media (max-width: 480px) {
