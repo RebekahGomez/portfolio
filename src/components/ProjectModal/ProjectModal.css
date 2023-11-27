@@ -65,26 +65,28 @@ a {
 }
 
 .modal-nav-button {
-  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%); /* Centers the buttons vertically */
   z-index: 1010;
   color: white;
   border: none;
   cursor: pointer;
   border-radius: 5px;
-  background-color: #cc6e00;
+  background-color: #3278cd;
   font-size: 36px;
 }
 
 .modal-nav-button:hover {
-  background-color: #ff9a33;
+  background-color: darkblue;
 }
 
 .modal-nav-button.previous {
-  margin-right: 20px; 
+  margin-right: -40px; 
 }
 
 .modal-nav-button.next {
-  margin-left: 20px; 
+  margin-left: -40px; 
 }
 
 @media (max-width: 480px) {

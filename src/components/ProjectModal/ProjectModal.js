@@ -16,13 +16,15 @@ const ProjectModal = ({ project, onClose, onNext, onPrevious }) => {
           X
         </button>
         <h2>{project.title}</h2>
-        <button onClick={onPrevious} className="modal-nav-button previous">
-          {"<"}
-        </button>
-        <img src={project.image} alt={project.title} />
-        <button onClick={onNext} className="modal-nav-button next">
-          {">"}
-        </button>
+        <div className="image-nav-container">
+          <button onClick={onPrevious} className="modal-nav-button previous">
+            {"<"}
+          </button>
+          <img src={project.image} alt={project.title} />
+          <button onClick={onNext} className="modal-nav-button next">
+            {">"}
+          </button>
+        </div>
         <p>{project.description}</p>
         <button
           className="project-link"
