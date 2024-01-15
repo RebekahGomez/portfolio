@@ -27,7 +27,7 @@ const Navbar = () => {
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
-          href="https://docs.google.com/document/d/18b6Nrr27qCe1PMEJwCNp6XHbZPtiT6pd9WYzAv5xXjk/edit?usp=sharing"
+          href="https://docs.google.com/document/d/183-popLnHaRH7F6K3v8ELiv1oVfrA58hq1qFG0pFAa8/edit?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >
