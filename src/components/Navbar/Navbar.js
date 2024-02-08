@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <h1>Rebekah Gomez</h1>
+        <h1>Rebekah (Menn) Gomez</h1>
         <p>Developer, Data Visualization, Foodie, NY Transplant</p>
       </div>
       <div className="navbar-links">
