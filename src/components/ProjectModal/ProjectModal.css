@@ -96,10 +96,12 @@ a {
   }
 
   .modal-nav-button.previous {
-    left: 0;
+    left: 0px; /* Adjust as needed */
+    margin-right: 0;
   }
-  
+
   .modal-nav-button.next {
-    right: 0;
+    right: 0px; /* Adjust as needed */
+    margin-left: 0;
   }
 }
